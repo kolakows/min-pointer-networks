@@ -1,4 +1,4 @@
-Unofficial implementation of [Pointer Networks](https://arxiv.org/abs/1506.03134)
+A minimal re-implementation of [Pointer Networks](https://arxiv.org/abs/1506.03134)
 
 `ptr_net.py` - minimal implementation, with masking of already chosen indices (useful for generating only valid TSP solutions)
 
