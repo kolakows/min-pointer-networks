@@ -1,6 +1,6 @@
 A minimal re-implementation of [Pointer Networks](https://arxiv.org/abs/1506.03134)
 
-`ptr_net.py` - minimal implementation, with masking of already chosen indices (useful for generating only valid TSP solutions)
+`ptr_net.py` - pointer network, masks already chosen indices (useful for generating only valid TSP solutions)
 
 `tsp_bench.ipynb` - training and testing PtrNet on available TSP dataset provided by the paper's authors [here](https://drive.google.com/drive/folders/0B2fg8yPGn2TCMzBtS0o4Q2RJaEU)
 
